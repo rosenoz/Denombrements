@@ -17,7 +17,7 @@ namespace Denombrements
                 Console.WriteLine("Arrangement ...................... 2");
                 Console.WriteLine("Combinaison ...................... 3");
                 Console.WriteLine("Quitter .......................... 0");
-                Console.Write("Choix :                            ");
+                Console.Write("Choixtes1t :                            ");
                 c = int.Parse(Console.ReadLine());
 
                 if (c == 0) { Environment.Exit(0); }
